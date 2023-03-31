@@ -1,2 +1,2 @@
 # Deap-Learning
-This contains 
+This repository contains projects related to common deep learning use cases.  
